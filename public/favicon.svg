@@ -1,0 +1,20 @@
+<svg id='Microsoft_Excel_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.42 0 0 0.42 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 9.5 0)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(76,175,80); fill-rule: nonzero; opacity: 1;" transform=" translate(-33.5, -24)" d="M 41 10 L 25 10 L 25 38 L 41 38 C 41.553 38 42 37.553 42 37 L 42 11 C 42 10.447 41.553 10 41 10 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 8 0)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-32, -24)" d="M 32 15 L 39 15 L 39 18 L 32 18 z M 32 25 L 39 25 L 39 28 L 32 28 z M 32 30 L 39 30 L 39 33 L 32 33 z M 32 20 L 39 20 L 39 23 L 32 23 z M 25 15 L 30 15 L 30 18 L 25 18 z M 25 25 L 30 25 L 30 28 L 25 28 z M 25 30 L 30 30 L 30 33 L 25 33 z M 25 20 L 30 20 L 30 23 L 25 23 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -7.5 0)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(46,125,50); fill-rule: nonzero; opacity: 1;" transform=" translate(-16.5, -24)" d="M 27 42 L 6 38 L 6 10 L 27 6 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -7.62 0)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-16.38, -24)" d="M 19.129 31 L 16.718 26.439 C 16.626 26.268 16.532 25.956 16.434 25.501 L 16.397000000000002 25.501 C 16.351000000000003 25.716 16.243000000000002 26.042 16.073 26.48 L 13.652 31 L 9.895 31 L 14.357 23.999 L 10.274 17 L 14.110999999999999 17 L 16.112 21.195999999999998 C 16.267999999999997 21.526999999999997 16.407999999999998 21.921 16.532 22.374999999999996 L 16.572 22.374999999999996 C 16.65 22.103999999999996 16.796 21.694999999999997 17.011 21.154999999999998 L 19.237 17 L 22.752 17 L 18.552999999999997 23.939 L 22.868999999999996 30.998 L 19.128999999999998 30.998 L 19.128999999999998 31 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
